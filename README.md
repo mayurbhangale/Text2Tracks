@@ -1,4 +1,5 @@
 # Text2Tracks: Prompt-Based Music Recommendation via Generative Retrieval
+**Note:** This is an unofficial implementation and is not affiliated with Spotify.
 
 This repo is a proof-of-concept implementation of the paper from Spotify - [Text2Tracks: Prompt-Based Music Recommendation via Generative Retrieval](https://arxiv.org/abs/2503.24193).
 
